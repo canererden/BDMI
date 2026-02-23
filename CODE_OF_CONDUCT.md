@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Bu proje, saygılı ve kapsayıcı bir iş birliği ortamını esas alır.
+Bu proje, kapsayıcı bir iş birliği ortamını esas alır.
 
 ## Beklenen Davranış
 
