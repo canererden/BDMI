@@ -1,0 +1,23 @@
+name: bdmi
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab>=4.2
+  - notebook>=7.2
+  - ipykernel>=6.29
+  - numpy>=1.26
+  - pandas>=2.2
+  - matplotlib>=3.8
+  - scikit-learn>=1.5
+  - pyyaml>=6.0
+  - pytorch>=2.3
+  - pip:
+      - transformers>=4.46
+      - datasets>=3.0
+      - accelerate>=1.0
+      - peft>=0.13
+      - trl>=0.11
+      - sentencepiece>=0.2

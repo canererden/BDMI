@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Python env
+.venv/
+venv/
+
+# Jupyter runtime
+*.nbconvert.ipynb
+
+# Local artifacts
+outputs/
+artifacts/
+*.log
