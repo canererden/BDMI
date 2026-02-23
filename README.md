@@ -1,8 +1,6 @@
-# BDMI — Büyük Dil Modellerinin İnşası (Notebooks Repository)
+# BDMI — Büyük Dil Modellerinin İnşası
 
 Bu depo, **Büyük Dil Modellerinin İnşası** kitabının uygulama tarafını içeren Jupyter Notebook koleksiyonudur.
-
-> Bu repoda kitap metni/bölüm içerikleri bulunmaz. Yalnızca notebook tabanlı uygulamalar, örnekler ve yardımcı dosyalar yer alır.
 
 ## Kapsam
 
